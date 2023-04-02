@@ -1,9 +1,9 @@
 const config = {
   development: {
-    backendUrl: "https://t-shirt-3-d-customizer-with-chat-gpt.vercel.app/api/v1/dalle",
+    backendUrl: "https://threed-customizer.onrender.com/api/v1/dalle",
   },
   production: {
-    backendUrl: "https://t-shirt-3-d-customizer-with-chat-gpt.vercel.app/api/v1/dalle",
+    backendUrl: "https://threed-customizer.onrender.com/api/v1/dalle",
   },
 };
 
