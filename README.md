@@ -2,6 +2,8 @@
 
 This project allows you to make your own t-shirt, customize it, choose a color and image upload and ask ChatGPT to make your own t-shirt by the prompt.
 
+![screenshot of T-Shirt_3D__Customizer_With_ChatGPT](T-shirt.jpg)
+
 ## Installation
 
 1. Clone this repository
