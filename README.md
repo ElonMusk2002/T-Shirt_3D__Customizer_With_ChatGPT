@@ -9,20 +9,19 @@ This project allows you to make your own t-shirt, customize it, choose a color a
    ```sh
    npm install
 
-Start the server
+## Start the server
 npm start
 
-Usage
-Open index.html in your browser
+## Usage
 Customize your t-shirt
 Ask ChatGPT to make your t-shirt by prompt
 Contributing
 Contributions are always welcome!
 
-Credits
-This project was inspired by XYZ.
+## Credits
+This project was inspired by JsMastery.
 
-License
+## License
 Distributed under the MIT License.
 
 
