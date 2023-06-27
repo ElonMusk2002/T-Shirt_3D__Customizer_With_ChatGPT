@@ -1,6 +1,6 @@
-# T-Shirt_3D__Customizer_With_ChatGPT 👕 
+# T-Shirt 3D Customizer With ChatGPT 👕 
 
-T-Shirt_3D__Customizer_With_ChatGPT is a fun and interactive project that allows users to make their own customized t-shirt by selecting their preferred color and design. Additionally, users can even ask ChatGPT to make their custom t-shirt using natural language prompts.
+T-Shirt 3D Customizer With ChatGPT is a fun and interactive project that allows users to make their own customized t-shirt by selecting their preferred color and design. Additionally, users can even ask ChatGPT to make their custom t-shirt using natural language prompts.
 
 ![screenshot of T-Shirt_3D__Customizer_With_ChatGPT](T-shirt.jpg)
 
